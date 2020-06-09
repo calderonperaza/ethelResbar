@@ -3,5 +3,5 @@
 
 //Direccion URL de la api rest que se va a consumir por la aplicacion
 //OJO SIN la pleca al final
-const ApiRestUrl = "https://pupuseriapattybackend.us-south.cf.appdomain.cloud"
+const ApiRestUrl = "https://ethelresbar.us-south.cf.appdomain.cloud"
     // https://pupuseriapattybackend.us-south.cf.appdomain.cloud
